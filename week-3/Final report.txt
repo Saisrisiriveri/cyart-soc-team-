@@ -1,0 +1,5 @@
+Final Report:
+The incident involved unauthorized access attempts identified through log analysis.
+Multiple failed login attempts followed by suspicious activity indicated a potential brute-force attack. 
+Threat intelligence validation was performed, and the system was isolated to prevent further compromise. 
+The incident was escalated for deeper investigation. Recommendations include strengthening authentication mechanisms and continuous monitoring.
